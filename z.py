@@ -5,8 +5,9 @@ rotor2 = ["AJDKSIRUXBLHWTMCQGZNPYFVOE", "E"]
 rotor3 = ["BDFHJLCPRTXVZNYEIWGAKMUSQO", "V"]  
 reflector = "YXWVUTSRQPONMLKJIHGFEDCBAZ"
 plugs = ['AC', 'BE']
-settings = "AAAB"
-msg = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+settings = "AAA"
+msg = "AAAAAAAAAAAAAAAAAAAAAAAAAA"
+#msg = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 e = ZANIGMA(rotor3, rotor2, rotor1, reflector)
 ctxt = e.input(msg, settings)
 print(ctxt)
