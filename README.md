@@ -6,4 +6,4 @@ What fixed the issue? A new wired, stepping reflector. Prior to a letter passing
 
 # Step 2
 
-The Step 2 version of Zanigma brings the Enigma machine closer to an ideal cipher.  The stepping wiring was changed to link rotor 1 and 3 together.
+The Step 2 version of Zanigma brings the Enigma machine closer to an ideal cipher.  The stepping wiring was changed to single step rotor 1 on it's notch position and double step rotor3 on it's notch position.
